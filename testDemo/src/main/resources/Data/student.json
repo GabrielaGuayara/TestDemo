@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "grade": "A",
+    "section": "1",
+    "address": "123 Main St"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "grade": "B",
+    "section": "2",
+    "address": "456 Elm St"
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "grade": "A",
+    "section": "1",
+    "address": "789 Oak St"
+  },
+  {
+    "id": 4,
+    "name": "Bob Brown",
+    "email": "bob.brown@example.com",
+    "grade": "C",
+    "section": "3",
+    "address": "101 Pine St"
+  },
+  {
+    "id": 5,
+    "name": "Charlie Davis",
+    "email": "charlie.davis@example.com",
+    "grade": "B",
+    "section": "2",
+    "address": "202 Maple St"
+  },
+  {
+    "id": 6,
+    "name": "Anna Alvarez",
+    "email": "anna.alvarez@example.com",
+    "grade": "A",
+    "section": "2",
+    "address": "202 Maple St"
+  },
+  {
+  "id": 7,
+  "name": "Jose Alvarez",
+  "email": "jose.alvarez@example.com",
+  "grade": "C",
+  "section": "2",
+  "address": "202 Maple St"
+  }
+
+]
